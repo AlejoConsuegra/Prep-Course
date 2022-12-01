@@ -1,0 +1,6 @@
+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
+
+
+git clone https://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@github.com/AlejoCOnsuegra/prep-course.git
+
+git push https://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@github.com/AlejoCOnsuegra/prep-course.git
